@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 50px;
+    height: calc(100% - 50px);
+    width: 100vw;
+    background-color: aqua;
+}
